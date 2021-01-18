@@ -1,1 +1,2 @@
-# 1574d9db6441a224608984b00af133ed
+# Flask Framework ile Kur Çekme
+Projeyi python EveYemek.py yazarak açabilirsiniz
