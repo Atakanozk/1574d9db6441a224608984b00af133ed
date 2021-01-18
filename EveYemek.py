@@ -172,9 +172,9 @@ class TarihKurGosterme:
     
     
             if x_rate[1] > tcmb[1]:
-                return'X rate USD kuru = {} TCMB USD Kurundan {} daha büyüktür.'.format(x_rate[1], tcmb[1])
+                return'X rate EUR kuru = {} TCMB EUR Kurundan {} daha büyüktür.'.format(x_rate[1], tcmb[1])
             elif x_rate[1] < tcmb[1]:
-                return'TCMB USD Kuru = {} X rate USD kurundan {} daha büyüktür.' .format(tcmb[1],x_rate[1])
+                return'TCMB EUR Kuru = {} X rate EUR kurundan {} daha büyüktür.' .format(tcmb[1],x_rate[1])
            
         except:
     
